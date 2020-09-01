@@ -1,0 +1,5 @@
+## Lab 1, Create a new repository
+-[x] Create a new repository
+-[x] Include a sample project to the repository, whatever you like, in any language. "Hello world" is fine 
+
+system.out.print("Hello WOrld!");
